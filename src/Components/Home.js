@@ -20,7 +20,6 @@ function Home() {
                     <div data-aos="flip-left" data-aos-duration="1500">
                       <img
                         src="https://img.icons8.com/ios/100/000000/user--v3.png"
-                        href=""
                         alt=""
                       />
                     </div>
@@ -84,7 +83,6 @@ function Home() {
                     <div data-aos="flip-right" data-aos-duration="2000">
                       <img
                         src="https://img.icons8.com/ios/100/000000/web.png"
-                        href=""
                         alt=""
                       />
                     </div>

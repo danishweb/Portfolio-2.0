@@ -26,11 +26,10 @@ function Contact() {
             <a
               className="text-muted"
               href="https://www.instagram.com/danish512s/"
-              target="_blank"
+              
             >
               <img
                 src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"
-                href=""
                 alt=""
               />
             </a>
@@ -39,11 +38,10 @@ function Contact() {
             <a
               className="text-muted"
               href="https://github.com/danishweb"
-              target="_blank"
+              
             >
               <img
                 src="https://img.icons8.com/material-outlined/24/000000/github.png"
-                href=""
                 alt=""
               />
             </a>
@@ -52,11 +50,10 @@ function Contact() {
             <a
               className="text-muted"
               href="https://twitter.com/DanishS43771284"
-              target="_blank"
+              
             >
               <img
                 src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"
-                href=""
                 alt=""
               />
             </a>
@@ -66,11 +63,10 @@ function Contact() {
             <a
               className="text-muted"
               href="https://discord.gg/q9dh6a9v"
-              target="_blank"
+              
             >
               <img
                 src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png"
-                href=""
                 alt=""
               />
             </a>
@@ -79,20 +75,18 @@ function Contact() {
             <a
               className="text-muted"
               href="https://www.facebook.com/profile.php?id=100065252679547"
-              target="_blank"
+              
             >
               <img
                 src="https://img.icons8.com/material-outlined/24/000000/facebook-new.png"
-                href=""
                 alt=""
               />
             </a>
           </li>
           <li className="ms-3">
-            <a className="text-muted" href="#" target="_blank">
+            <a className="text-muted" href="/" >
               <img
                 src="https://img.icons8.com/material-outlined/24/000000/whatsapp--v1.png"
-                href=""
                 alt=""
               />
             </a>
