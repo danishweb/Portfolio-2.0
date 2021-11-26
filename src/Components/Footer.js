@@ -34,17 +34,29 @@ function Footer() {
             <ul className="nav flex-wrap col-md-4 justify-content-end list-unstyled d-flex">
               <li className="ms-3">
                 <a className="text-muted" href="#">
-                  <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png" />
+                  <img
+                    src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"
+                    href=""
+                    alt=""
+                  />
                 </a>
               </li>
               <li className="ms-3">
                 <a className="text-muted" href="#">
-                  <img src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png" />
+                  <img
+                    src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png"
+                    href=""
+                    alt=""
+                  />
                 </a>
               </li>
               <li className="ms-3">
                 <a className="text-muted" href="#">
-                  <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" />
+                  <img
+                    src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"
+                    href=""
+                    alt=""
+                  />
                 </a>
               </li>
             </ul>

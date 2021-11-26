@@ -4,7 +4,7 @@ import logo from "../Assets/logo.png";
 import { NavData } from "../data";
 
 function NavBar() {
-  const [active, setActive] = useState(NavData);
+  const [active] = useState(NavData);
   const [navactive, setNavactive] = useState(false);
 
   const changeBackgroundNav = () => {
@@ -28,7 +28,7 @@ function NavBar() {
       >
         <div className="container-fluid">
           <Link className="navbar-brand" to="/" exact>
-            <img className="logo" src={logo} href="logo" />
+            <img className="logo" src={logo} href="logo" alt="" />
             {/* Danish Shaikh */}
           </Link>
           <div

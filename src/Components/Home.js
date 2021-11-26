@@ -82,7 +82,11 @@ function Home() {
                 <div className="d-flex align-items-center justify-content-center ">
                   <div className="image-dp">
                     <div data-aos="flip-right" data-aos-duration="2000">
-                      <img src="https://img.icons8.com/ios/100/000000/web.png" />
+                      <img
+                        src="https://img.icons8.com/ios/100/000000/web.png"
+                        href=""
+                        alt=""
+                      />
                     </div>
                   </div>
                 </div>

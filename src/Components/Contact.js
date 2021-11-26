@@ -28,7 +28,11 @@ function Contact() {
               href="https://www.instagram.com/danish512s/"
               target="_blank"
             >
-              <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" />
+              <img
+                src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"
+                href=""
+                alt=""
+              />
             </a>
           </li>
           <li className="ms-3">
@@ -37,7 +41,11 @@ function Contact() {
               href="https://github.com/danishweb"
               target="_blank"
             >
-              <img src="https://img.icons8.com/material-outlined/24/000000/github.png" />
+              <img
+                src="https://img.icons8.com/material-outlined/24/000000/github.png"
+                href=""
+                alt=""
+              />
             </a>
           </li>
           <li className="ms-3">
@@ -46,7 +54,11 @@ function Contact() {
               href="https://twitter.com/DanishS43771284"
               target="_blank"
             >
-              <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png" />
+              <img
+                src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"
+                href=""
+                alt=""
+              />
             </a>
           </li>
 
@@ -56,7 +68,11 @@ function Contact() {
               href="https://discord.gg/q9dh6a9v"
               target="_blank"
             >
-              <img src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png" />
+              <img
+                src="https://img.icons8.com/ios-glyphs/30/000000/discord-logo.png"
+                href=""
+                alt=""
+              />
             </a>
           </li>
           <li className="ms-3">
@@ -65,12 +81,20 @@ function Contact() {
               href="https://www.facebook.com/profile.php?id=100065252679547"
               target="_blank"
             >
-              <img src="https://img.icons8.com/material-outlined/24/000000/facebook-new.png" />
+              <img
+                src="https://img.icons8.com/material-outlined/24/000000/facebook-new.png"
+                href=""
+                alt=""
+              />
             </a>
           </li>
           <li className="ms-3">
             <a className="text-muted" href="#" target="_blank">
-              <img src="https://img.icons8.com/material-outlined/24/000000/whatsapp--v1.png" />
+              <img
+                src="https://img.icons8.com/material-outlined/24/000000/whatsapp--v1.png"
+                href=""
+                alt=""
+              />
             </a>
           </li>
           <li className="ms-3"></li>
