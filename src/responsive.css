@@ -1,0 +1,31 @@
+@media only screen and (max-width: 991px) {
+  .navbar-toggler1 {
+    display: inline !important;
+  }
+  .navbar {
+    padding: 0 0px !important;
+  }
+  .logo {
+    max-width: 10px;
+  }
+  .nav-link {
+    text-align: center;
+  }
+  .footer-disc {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .footer-name {
+    padding-bottom: 1rem;
+  }
+  .social-icons {
+    list-style: none;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 570px) {
+  .lead {
+    font-size: 12px;
+  }
+}
